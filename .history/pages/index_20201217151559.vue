@@ -34,7 +34,6 @@ export default {
   data() {
     return {
       products: [],
-      base_url: 'http://localhost:1337',
     }
   },
   async created() {
